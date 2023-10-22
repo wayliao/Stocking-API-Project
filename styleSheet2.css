@@ -1,0 +1,35 @@
+#SearchBtn{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#winT{
+    color:green;
+}
+#loseT{
+    color:red;
+}
+ .card{
+    height:650px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.card-img-top{
+    height:fit-content;
+    width: auto;
+}
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+label{
+    color:white;
+}
+#dot{
+    height: 15px;
+    width: 15px;
+    background-color: green;
+    border-radius: 50%;
+    display:inline-block;
+}

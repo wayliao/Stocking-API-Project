@@ -1,0 +1,14 @@
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#userP{
+    margin-right: 10px;
+    height:200px;
+    width: 200px;
+}
+#introduction h2{
+    margin-left: 215px;
+}

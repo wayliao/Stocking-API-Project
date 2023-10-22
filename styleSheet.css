@@ -1,0 +1,58 @@
+
+    #winT{
+        color:green;
+    }
+    #loseT{
+        color:red;
+    }
+    .card{
+        height:650px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+    .card-img-top{
+        height:fit-content;
+        width: auto;
+    }
+    #viewBtn{
+        width:fit-content;
+    }
+    body {
+        background-image: url('background.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    label{
+        color:white;
+    }
+   /*p {
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-left: 100px;
+    text-indent: -100px;
+    text-align: justify;
+    }
+    #p1 {
+    color: red;
+    }
+    #p1::first-letter {
+    font-size: 72px;
+    }
+    #div1{
+    border-color: red;
+    border-style: dashed;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    }
+    .bold{
+    font-style: bold;
+    }
+    ol li{
+    color: blue;
+    text-decoration: underline;
+    }
+    a:link{
+    color: green;
+    border-style: solid;
+    }*/
